@@ -1,0 +1,8 @@
+Program 1 (Data_to_instruction_conversion):
+Convert an array of numbers into their equivalent instruction name.
+
+Program 2 (Data_to_instruction_conversion(f_r_type)):
+An extension of program 1, but instead of just outputting the words "rtype" and "ftype", it outputs the actual instruction names of type F and type R.
+
+Program 3 (machine_code_to_assembly):
+An extension of program 2, that takes in decimal values (machine code) and outputs valid assembly code.
